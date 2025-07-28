@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/startr-academy/startr-academy.r-universe.dev
 	branch = HEAD
+[submodule "qlcheckr"]
+	path = qlcheckr
+	url = https://github.com/startr-academy/qlcheckr
